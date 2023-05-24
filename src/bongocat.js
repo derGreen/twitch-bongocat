@@ -39,7 +39,7 @@ var playing = false;
 setBPM(128);
 var githubUrl = "https://raw.githubusercontent.com/jvpeek/twitch-bongocat/master/songs/";
 
-window.maxNotesPerBatch = 5;
+window.maxNotesPerBatch = 9;
 
 // ====================================================== //
 // ================== notation handlers ================= //
